@@ -10,6 +10,7 @@ You can Fork My Repo and Adjust to your needs this was created through the Brad 
 
 # Preview
 ![giphyBreaking](https://user-images.githubusercontent.com/47014638/86640936-bdec1c80-bfa8-11ea-8c61-48439a2cd331.gif)
+![giphycard](https://user-images.githubusercontent.com/47014638/86641442-22a77700-bfa9-11ea-8768-2f24b38fc908.gif)
 
 
 ## License
